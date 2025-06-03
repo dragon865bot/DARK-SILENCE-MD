@@ -31,7 +31,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~KJwgQb7a#ls-udB7TUiN2JgjVtrGi2izkyEcWM5KUIW148VH-saU",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
@@ -53,11 +53,11 @@ module.exports = {
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923096287432",
-    OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923053926167",
+    OWNER_NAME: process.env.OWNER_NAME || "➺Qasidbaloch࿐",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺DARK-SILENCE-MD",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү ∂αяк-sιℓεηcε-м∂`",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү 𝗾𝗮𝘀𝗶𝗱 𝗯𝗮𝗹𝗼𝗰𝗵`",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
